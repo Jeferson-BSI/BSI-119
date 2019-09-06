@@ -9,14 +9,17 @@ PS: Ninguem chama pascalzim. pq ninguem merece mais Program, Begin, If, Then, En
 
 -- Lista de exercicios / Exercicios do PDF de conteúdo --
 
-"numero do exercicio em centena" - "Assinatura de quem fez".c
+"numero do exercicio em centena" - "Assinatura do programador".c
 
 Ex: 069 - Z.c
 
 -- Desafios --
 
-Desafio #"Numero do desafio em centena".c - "Nome do desafio" - "Assinatura de quem fez o código".c
+Desafio #"Numero do desafio em centena".c - "Nome do desafio" - "Assinatura do programador".c
 
 Ex: Desafio #003 - Validação CPF - Z.c
 
 -- Provas --
+
+Prova #"Numero da prova" - "Assinatura do programador"
+Ex: Provra #003 - Z.c
