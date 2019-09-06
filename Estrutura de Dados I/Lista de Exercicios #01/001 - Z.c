@@ -30,7 +30,7 @@ int main(){
 			quant_par++;
 		else
 			quant_impar++;
-		
+
 		perc_par = (quant_par * 100) / quant;
 		perc_impar = (quant_impar * 100) / quant;
 
