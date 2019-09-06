@@ -1,0 +1,27 @@
+ - Fórmula Kart -
+
+Você e a sua turma de amigos gostam muito de fazer corridas de kart nos finais de semana. Porém, como a pista disponível para a corrida é muito pequena, e há inúmeras ultrapassagens, quase sempre não é possível determinar quem está nas posições iniciais, intermediárias e finais. É uma confusão só...
+
+Como você é um excelente Analista de Sistemas, logo imaginou um programa que pode resolver o
+problema...
+
+Faça um programa que possibilite o cadastro de N nomes de pessoas. O valor de N deve ser informado pelo usuário logo no início da execução do programa.
+
+A ordem do cadastro das pessoas determina a ordem da largada na pista de kart.
+
+Após o cadastro dos nomes, o sistema deve coletar o tempo (em minutos) que cada competidor gastou para completar a corrida do início ao fim. Sendo assim, para cada pessoa cadastrada, um valor inteiro deve ser lido, e este valor corresponde ao tempo que essa pessoa gastou para completar a corrida.
+
+Obs.: Os valores referentes ao tempo gasto podem ser gerados aleatoriamente pelo próprio sistema, no intervalo entre 10 e 100 (inclusive); ou podem ser informados manualmente pelo usuário.
+
+O sistema deve gerar como resultado as seguintes informações:
+ - Grid de Largada e o tempo gasto por cada competidor para completar a prova.
+
+ - Classificação Final da Corrida (Ou seja, a lista ordenada dos competidores com base no tempo gasto para completar a corrida).
+
+ - Nome(s) do(s) competidor(es) que NÃO mudou/mudaram de posição, considerando a Largada e a
+Classificação Final.
+
+ - Nome do competidor que mais subiu na classificação, considerando a posição na Largada e a
+posição na Classificação Final;
+
+ - Nome do competidor que mais desceu na classificação, considerando a posição na Largada e a posição na Classificação Final;
