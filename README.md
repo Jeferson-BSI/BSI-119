@@ -24,5 +24,3 @@ Ex: Desafio #003 - Validação CPF - Z.c
 Prova #"Numero da prova" - "Assinatura do programador"
 Ex: Provra #003 - Z.c
 
-
-#Teste
