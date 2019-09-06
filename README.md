@@ -4,6 +4,7 @@ Repositório para compartilhar códigos feitos pelos alunos do IFNMG cursando at
 
 PS: Ninguem chama pascalzim. pq ninguem merece mais Program, Begin, If, Then, End.
 
+// Deixar a P#$$@ do código identado, te amo <3; 
 
 #Informações sobre a organização do repositório
 
